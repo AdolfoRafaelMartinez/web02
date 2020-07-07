@@ -1,0 +1,30 @@
+{
+  "saftey": {
+    "title": "Welding Shop Safety Oxygen Sensor",
+    "challenge": "Our partner TechShop has a welding room with several tanks containing Argon gas to use as the shielding gas during welding. Argon is an odorless, colorless, tasteless gas, and because it is heavier than air it will flow to the lowest spot. Argon gas if released into the room would displace the oxygen causing anyone in the room to pass out, causing harm to them by falling or be the cause of accidental death, due to inert gas asphyxia. In fact for industry, there are reportedly far more deaths every year that result from the use of argon gas than from all other gases combined!",
+    "solution": " PsIoT engineering team determined that Argon being a noble gas would be difficult to detect and require expensive gas testing equipment. Instead we obtained an oxygen sensor to detect and monitor the oxygen level in the room. The PsIoT system design includes an oxygen sensor, a temperature and humidity sensor, a high output green LED to indicate normal O2 levels, a high output red LED to indicate low O2 levels, and a buzzer that beeps if the O2 sensor is disconnected or sounds continuously if low oxygen levels are detected. In addition to continuous monitoring on a dashboard, a text alert is sent if either of the alarms are enabled. As Argon is heavier than air, we placed the sensor approximately one foot above the floor surface, connected by an audio cable to the PsIoT IoT device mounted on the wall near the ceiling. As the O2 sensor device is a safety device,  PsIoT engineers designed a battery backup system that continuously charges a lithium battery allowing the operation of the system to run up to 20 hours without external power.",
+    "benefits": "Our partner TechShop now has a continuous monitor of the oxygen levels in the welding shop area. Users of the welding shop will be alerted by alarm to low O2 condition and the TechShop staff will be alerted to any low oxygen level.",
+    "photos": [
+      "img/portfolio/img/gnomehome.jpg"
+    ]
+  },
+  "predictive": {
+    "title": "Predictive maintenence ",
+    "challenge": "test",
+    "solution": "test",
+    "benefits": "test",
+    "photos": [
+      "img/portfolio/img/gnomehome.jpg"
+    ]
+  },
+  "monitoring": {
+    "title": "Remote Monitoring",
+    "challenge": "Monitoring test",
+    "solution": "test",
+    "benefits": "test",
+    "photos": [
+      "img/portfolio/img/gnomehome.jpg"
+    ]
+  },
+
+}
